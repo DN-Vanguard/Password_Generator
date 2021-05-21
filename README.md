@@ -1,8 +1,5 @@
 # Password_Generator
-HW3
-
-# Dom Nguyen's Portfolio
-<h2>HW-02</h2>
+<h2>HW-03</h2>
 
 ## What was your motivation?
 - I saw that many web developers show off their work through an online portfolio of some kind.

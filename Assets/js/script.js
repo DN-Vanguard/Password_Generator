@@ -1,3 +1,9 @@
+// Global variables
+var specialChar = " !#$%&'()*+,-./:;<=>?@[\]^_`{|}~";
+var numberChar = "0123456789";
+var lowercaseChar = "abcdefghijklmnopqrstuvwxyz";
+var uppercaseChar = lowercaseChar.toUpperCase();
+
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
@@ -12,3 +18,5 @@ function writePassword() {
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
+
+
