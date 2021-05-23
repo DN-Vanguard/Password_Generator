@@ -25,4 +25,10 @@ https://dn-vanguard.github.io/Password_Generator/
 ## Screenshots
 ![Homepage](./Assets/images/homeScreen.png)
 ![Insert_Value](./Assets/images/insertValue.png)
+- I felt that for this readme file, uploading the screenshots for the 4 prompts would take too much space, therefore I left the character criterias screenshots out.
 ![Successful_Password_Generator](./Assets/images/successfulPasswordGenerator.png)
+- The password generator generated a 12 character password that accepted ALL 4 criterias:
+    - Special Characters
+    - Numeric Characters
+    - Lowercase Characters
+    - Uppercase Characters
