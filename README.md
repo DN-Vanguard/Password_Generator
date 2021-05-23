@@ -2,24 +2,27 @@
 <h2>HW-03</h2>
 
 ## What was your motivation?
-- I saw that many web developers show off their work through an online portfolio of some kind.
-- This made me realize that in order to succeed in this field, I need to focus and build things that people would want to hire me for.
+- This project really allowed me to test my skills in javascript.
+- After learning about js from scratch, I felt confident in my skills to replicate the password generator.
 
 ## Why did I build this project?
-- Similar to my motivation, I wanted to stand out, and show the public the materials I have worked on from raw code.
+- I was always curious on how password generators were randomized. 
+- Before I looked into the code, I would've never realized how much code is put into making a string random.
 
 ## What problem does it solve?
-- For me personally, I learned that creating a website from scratch takes hard work, and doing this allowed me to truly understand CSS.
-- I was stuck with CSS for quite a while so doing this allowed me create a basic outline for a portfolio and eventually updating it with many other projects in the future.
-- Flexbox was also a huge milestone for me to master and it allowed me to truly grasp and good understanding of it.
+- I ran into some problems making things random.
+- Intially, I wanted to separate everything into functions, but as I ran my code, I concluded that it was best to just leave my code out of their function tags and
+put it directly into generatePassword().
 
 ## What did I learn?
-- I learned flexbox, display, and especially @media screen.
-- I knew that many business make websites optimized for both web and mobile view, so learning this skill makes me admire software developers that much more.
+- The complexity of "if else" statements and "for loop" statements.
+    - I had a good understanding of them while in class, but putting the skills to practice was a lot harder than I thought.
+- Scoping was also quite useful during the trial phases of my project, but for simplicity reasons, it made more sense to me to leave them out moving forward with the project.
 
 ## Link to URL
-https://dn-vanguard.github.io/
+https://dn-vanguard.github.io/Password_Generator/
 
 ## Screenshots
-![Webpage_Interface](./assets/images/websiteInterface.png)
-![Mobile_Interface](./assets/images/mobileInterface.png)
+![Homepage](./Assets/images/homeScreen.png)
+![Insert_Value](./Assets/images/insertValue.png)
+![Successful_Password_Generator](./Assets/images/successfulPasswordGenerator.png)
